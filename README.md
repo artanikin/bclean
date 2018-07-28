@@ -22,3 +22,19 @@ Installation
       ```Plug 'artanikin/bclear'```
 
     b. Reload .vimrc and `:PlugInstall` to install plugin.
+
+
+Screenshots
+-----------
+
+### Ruby
+![Bclear theme](https://github.com/artanikin/bclear/blob/master/screenshots/ruby-file.png)
+
+### Erb
+![Bclear theme](https://github.com/artanikin/bclear/blob/master/screenshots/erb-file.png)
+
+### Scss
+![Bclear theme](https://github.com/artanikin/bclear/blob/master/screenshots/scss-file.png)
+
+### YML
+![Bclear theme](https://github.com/artanikin/bclear/blob/master/screenshots/yml-file.png)
